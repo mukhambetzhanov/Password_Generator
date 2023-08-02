@@ -1,2 +1,3 @@
-# Password_Generator
- A simple password generator that creates strong and randomized passwords based on user preferences.
+**Password Generator Project**
+
+This Python script is a simple password generator that creates strong and randomized passwords based on user preferences. It prompts the user to input the number of letters, symbols, and numbers they want in their password. After gathering the user's preferences, the script generates a password containing the specified number of each character type and then presents the final password to the user. The generated passwords are designed to be secure and suitable for various online accounts and services. The script demonstrates basic Python programming concepts and can serve as a useful tool for generating strong passwords.
